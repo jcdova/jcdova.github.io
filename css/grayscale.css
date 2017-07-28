@@ -220,6 +220,15 @@ a:focus {
 .content-section {
   padding-top: 100px;
 }
+
+#about {
+	background-image: url("../img/dotted-metal-background.jpg")
+}
+
+#contact {
+	background-image: url("../img/dotted-metal-background.jpg")
+}
+
 .download-section {
   width: 100%;
   padding: 50px 0;
